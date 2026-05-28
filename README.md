@@ -39,12 +39,12 @@ The objective of this project is to:
 # Repository Structure
 
 ```bash
-.
-├── 01_eda.ipynb
-├── 02_graph_construction.ipynb
-├── 03_bottleneck_analysis.ipynb
-├── 04_eta_prediction.ipynb
-├── 05_graph_embeddings.ipynb
+├── notebooks/
+  ├── 01_eda.ipynb
+  ├── 02_graph_construction.ipynb
+  ├── 03_bottleneck_analysis.ipynb
+  ├── 04_eta_prediction.ipynb
+  ├── 05_graph_embeddings.ipynb
 ├── data/
 └── report/
 ```
