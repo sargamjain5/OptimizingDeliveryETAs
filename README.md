@@ -13,6 +13,9 @@ The pipeline combines:
 
 The system transforms raw shipment movement data into operational intelligence for network strategy teams.
 
+View Report Here: https://drive.google.com/file/d/1V_9cDIRs3gj0Edc0-NrF5iAJBZSEyPs2/view?usp=sharing
+
+
 ---
 
 # Problem Statement
@@ -43,7 +46,7 @@ The objective of this project is to:
 ├── 04_eta_prediction.ipynb
 ├── 05_graph_embeddings.ipynb
 ├── data/
-└── outputs/
+└── report/
 ```
 
 ---
